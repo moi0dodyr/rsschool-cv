@@ -1,5 +1,5 @@
 # Oleg Stepanchykov
-==*Product Designer*==
+*Product Designer*
 ___
 Phone: +380995305631
 Email: stepanchykov.o@gmail.com
@@ -32,7 +32,7 @@ ___
 #### LK Digital
 *04.2021 — 01.2023*
 #### Halo Lab 
-==*01.2023 — Currently*==
+*01.2023 — Currently*
 ___
 ## Education
 #### Pavlograd College
